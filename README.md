@@ -293,21 +293,6 @@ For `bound-lo-sphere.smf` with Material 0:
 - Specular highlights appear bright white
 - Highlights move as light position changes
 
-## Submission Checklist
-
-- [ ] Source code (main.cpp)
-- [ ] VS Code configuration files
-- [ ] CMakeLists.txt or Makefile
-- [ ] README with setup instructions
-- [ ] Screenshots showing:
-  - [ ] Flat shading
-  - [ ] Gouraud shading with all 3 materials
-  - [ ] Phong shading with all 3 materials
-  - [ ] Different camera angles
-  - [ ] Parallel vs perspective projection
-- [ ] Video demonstration or YouTube link
-- [ ] Report in PDF/Word format describing implementation
-
 ## Report Structure
 
 1. **Introduction**: Brief overview of assignment goals
@@ -327,18 +312,3 @@ For `bound-lo-sphere.smf` with Material 0:
 - All vectors are normalized before use in lighting calculations
 - Fragment shader implements standard Phong reflection model
 - Vertex normals are smoothed for better appearance
-
-## References
-
-- OpenGL 3.3 Core Profile Specification
-- Learn OpenGL (learnopengl.com)
-- Phong Reflection Model
-- SMF File Format Specification
-
-## Author
-
-Name_Surname_GroupNo
-
-## License
-
-Educational use only - Computer Graphics Course Assignment
